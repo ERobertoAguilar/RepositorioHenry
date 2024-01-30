@@ -1,0 +1,1 @@
+estoy terminando el primer Homework cree el repositorio desde Github y luego lo clone, realice los cambios desde VSC y subi los cambios con el comando push, despues de realizar el respectivo commit.
